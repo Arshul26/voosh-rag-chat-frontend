@@ -31,6 +31,10 @@ npm install
 npm run dev
 ```
 
+## 📸 Chatbot Screenshot
+
+![Chatbot Screenshot](./src/assets/Chatbot_Demo.png)
+
 ## Project Workflow 📜
 ![Project Workflow Pipeline](./src/assets/Pipeline.png)
 
