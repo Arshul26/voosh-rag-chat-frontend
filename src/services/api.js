@@ -22,9 +22,7 @@
 // export const socket = io(BASE_URL);
 
 
-// /src/services/api.js
-
-// Mock socket object to prevent runtime errors
+// This is just a Dummy code to show the problem in , The actual axios calls are above
 export const socket = {
   on: () => {},
   off: () => {},

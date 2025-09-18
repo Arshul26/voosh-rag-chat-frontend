@@ -30,4 +30,6 @@ npm install
 # Start development server
 npm run dev
 
+## Project Workflow 📜
+![Project Workflow Pipeline](./src/assets/Pipeline.png)
 
